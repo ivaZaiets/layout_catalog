@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles\\reset.scss"],"names":[],"mappings":"AAAA,EACE,qBAAsB,CAGxB,qCAQE,QAAS,CACT,SAAU","file":"reset.b39f7abe.css","sourceRoot":"..\\src","sourcesContent":["* {\n  box-sizing: border-box;\n}\n\nhtml,\nbody,\np,\nsection,\ndiv,\na,\nbutton,\nimg {\n  margin: 0;\n  padding: 0;\n}\n"]}
